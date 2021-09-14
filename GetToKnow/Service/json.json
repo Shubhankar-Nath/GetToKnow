@@ -88,5 +88,13 @@
         "state": "Maharashtra"
       }
     }
+    {
+      "firstName": "Achyuat",
+      "lastName": "Kumar",
+      "location": {
+        "country": "India",
+        "state": "Jharkhand"
+      }
+    }
   ]
 }
