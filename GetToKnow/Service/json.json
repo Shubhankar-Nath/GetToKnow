@@ -15,6 +15,14 @@
         "country": "India",
         "state": "Telengana"
       }
+    },
+    {
+      "firstName": "Yashovardhan",
+      "lastName": "Dhanania",
+      "location": {
+        "country": "India",
+        "state": "West Bengal"
+      }
     }
   ]
 }
