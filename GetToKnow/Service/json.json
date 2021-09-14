@@ -87,6 +87,14 @@
         "country": "India",
         "state": "Maharashtra"
       }
+    },
+    {
+      "firstName": "Niti",
+      "lastName": "Modi",
+      "location": {
+        "country": "India",
+        "state": "Gujarat"
+      }
     }
   ]
 }
