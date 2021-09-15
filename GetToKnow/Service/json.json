@@ -103,6 +103,14 @@
         "country": "India",
         "state": "Odisha"
       }
+    },
+    {
+      "firstName": "Priya",
+      "lastName": "Fernandes",
+      "location": {
+        "country": "India",
+        "state": "Maharashtra"
+      }
     }
   ]
 }
