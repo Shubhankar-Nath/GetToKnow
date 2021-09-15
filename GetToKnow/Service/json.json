@@ -103,6 +103,14 @@
         "country": "India",
         "state": "Odisha"
       }
+    },
+    {
+      "firstName": "Shives",
+      "lastName": "Singh",
+      "location": {
+        "country": "India",
+        "state": "West Bengal"
+      }
     }
   ]
 }
