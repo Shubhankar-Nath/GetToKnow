@@ -97,6 +97,15 @@
       }
     },
     {
+      "firstName": "Vidhi",
+      "lastName": "Shah",
+      "location": {
+        "country": "India",
+        "state": "Maharashtra"
+      }
+    
+    },
+    {
       "firstName": "Isita",
       "lastName": "Patra",
       "location": {
@@ -104,5 +113,6 @@
         "state": "Odisha"
       }
     }
+      
   ]
 }
