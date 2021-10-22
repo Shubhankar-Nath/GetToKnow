@@ -105,6 +105,14 @@
       }
     },
     {
+      "firstName": "Lipsa",
+      "lastName": "Das",
+      "location": {
+        "country": "India",
+        "state": "Odisha"
+      }
+    },
+    {
       "firstName": "Kashish",
       "lastName": "Madan",
       "location": {
